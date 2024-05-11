@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **josh17-92/josh17-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here is my [LinkedIn profile](https://www.linkedin.com/in/jrcf617/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a fan of Videogames (Xbox is my preferred platform)
--->
+
