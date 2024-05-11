@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-**josh17-92/josh17-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**josh17-92/josh17-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on a Fullstack project to create a clone of a Social Media Site
 - 🌱 I’m currently learning Django
