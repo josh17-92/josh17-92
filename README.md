@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Networking, Site Reliability Engineering, Telecommunications, & Videogames (of course)
 - 📫 How to reach me: here is my [LinkedIn profile](https://www.linkedin.com/in/jrcf617/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a fan of Videogames (Xbox is my preferred platform)
+- ⚡ Fun fact: I'm a big Videogames fan (Xbox is my preferred platform)
 
